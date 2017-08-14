@@ -4,11 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "micro"
   },
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "now": "^7.3.0"
+  },
+  "dependencies": {
+    "micro": "^8.0.2"
   }
 }
