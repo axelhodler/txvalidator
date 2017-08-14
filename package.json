@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "micro"
+    "start": "micro",
+    "deploy": "./node_modules/.bin/now --public"
   },
   "license": "ISC",
   "devDependencies": {
