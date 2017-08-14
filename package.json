@@ -9,9 +9,10 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "now": "^7.3.0"
+    "now": "7.3.0"
   },
   "dependencies": {
-    "micro": "^8.0.2"
+    "ethereumjs-tx": "1.3.3",
+    "micro": "8.0.2"
   }
 }
